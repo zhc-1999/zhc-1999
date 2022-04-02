@@ -5,8 +5,7 @@
 
 ```javascript
 const zhc = {
-  pronouns: "she",
-  code: [JAVA],
+  code: [JAVA, Python],
   tools: [Reactor-JAVA, Docker,Spring-Boot,Spring-Cloud],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
