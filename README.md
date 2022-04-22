@@ -1,5 +1,5 @@
 <h2> Hi, I'm ZHC!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img width="25%" align="right" src="https://github.com/zhc-1999/zhc-1999/blob/main/1.jpg" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -10,9 +10,40 @@ const zhc = {
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
+**Languages and Tools:** 
 
-<a href="https://https://dromara.org">
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=zhc-1999&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="XiaoYu GitHub Stats"/>
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhc-1999&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="zhc"/>
-</a>
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="ZHC's github stats" src="https://github-readme-stats.vercel.app/api?username=zhc-1999&show_icons=true&hide_border=true" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+</p>
+
+---
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/zhc-1999/zhc-springcloud">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhc-1999&repo=zhc-springcloud" />
+  </a>
+</p>
+
 
