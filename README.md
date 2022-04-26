@@ -39,11 +39,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/zhc-1999/zhc-springcloud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhc-1999&repo=zhc-springcloud" />
-  </a>
-</p>
 
 
